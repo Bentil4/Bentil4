@@ -27,6 +27,9 @@ jobs:
             dist/snake.svg?color_snake=#f0b14a&color_dots=#1f2940,#3b2f14,#6b521f,#a67a2a,#f0b14a&color_background=#111726
             dist/snake-light.svg?color_snake=#c98a1c&color_dots=#eef0f3,#f6dfae,#eebd62,#c98a1c,#8a5a12&color_background=#ffffff
 
+      # snk runs in a root-owned Docker container; hand dist/ back to the runner user.
+      - run: sudo chown -R "$(id -u):$(id -g)" dist
+
       - uses: abozanona/pacman-contribution-graph@d258e3fb01511c1ff4fe6418408ede37b2ad4935 # v5.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
