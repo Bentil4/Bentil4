@@ -40,7 +40,7 @@ const broderick = {
 - 🤖 **Building** [FX-bot](https://fx-bot-six.vercel.app), a trading bot where every decision traces back to the exact indicators behind it
 - 💝 **Shipping** [Givio](https://github.com/Bentil4/Givio), a donation management PWA that brings accountability to event giving
 - 🗳️ **Collaborating** on [QuickPoll](https://github.com/QuickPoll-app/QuickPoll), a real-time polling platform for distributed teams
-- 📚 **Learning** cloud infrastructure and observability: AWS, Terraform, Prometheus and Grafana
+- 📚 **Learning** AI and Machine Learning,cloud infrastructure and observability: AWS, Terraform, Prometheus and Grafana
 - ⚡ **Ask me about** Angular Signals, typed APIs and web accessibility (WCAG)
 
 ## 🌟 Featured Projects
