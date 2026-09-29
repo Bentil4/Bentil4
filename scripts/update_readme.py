@@ -2,7 +2,7 @@
 
 Fills the blocks between <!--ACTIVITY:START--> / <!--ACTIVITY:END--> and
 <!--REPOS:START--> / <!--REPOS:END--> from the public GitHub API.
-Usage: python scripts/update_readme.py README.v2.md  (GITHUB_TOKEN optional)
+Usage: python scripts/update_readme.py README.md  (GITHUB_TOKEN optional)
 """
 
 import json
