@@ -1,5 +1,5 @@
 <!--
-  Profile README, version 2.
+  Profile README.
   Every card has a dark and a light variant (<picture>), so it matches the visitor's GitHub theme.
   Dark: background 111726 · amber f0b14a · blue 7fa8d8 · text e8ecf4
   Light: background ffffff · amber 9a6412 · blue 3b6ea8 · text 1f2937
