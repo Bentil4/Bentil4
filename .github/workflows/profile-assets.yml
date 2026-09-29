@@ -1,0 +1,55 @@
+name: Generate profile animations
+
+# Draws the snake, Pac-Man and 3D contribution graphs (dark + light) and
+# publishes them to the `output` branch, which the README links to.
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/profile-assets.yml, .github/3d/**]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
+
+      - uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#f0b14a&color_dots=#1f2940,#3b2f14,#6b521f,#a67a2a,#f0b14a&color_background=#111726
+            dist/snake-light.svg?color_snake=#c98a1c&color_dots=#eef0f3,#f6dfae,#eebd62,#c98a1c,#8a5a12&color_background=#ffffff
+
+      - uses: abozanona/pacman-contribution-graph@d258e3fb01511c1ff4fe6418408ede37b2ad4935 # v5.0.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      - uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/3d/amber-dark.json
+
+      - uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/3d/amber-light.json
+
+      - run: cp profile-3d-contrib/profile-3d-*.svg dist/ && ls -la dist
+
+      - uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: regenerate the profile animations"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
