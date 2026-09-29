@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<a href="https://bentil4.github.io/bentil-porfolio/">
+<a href="https://bentil-dev.vercel.app/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F0B14A&center=true&vCenter=true&width=640&height=48&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;TypeScript+everywhere%2C+front+to+back;Angular+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot;Building+explainable+trading+systems+%F0%9F%A4%96;Shipping+accessible%2C+fast+UIs+%E2%99%BF" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9A6412&center=true&vCenter=true&width=640&height=48&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;TypeScript+everywhere%2C+front+to+back;Angular+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot;Building+explainable+trading+systems+%F0%9F%A4%96;Shipping+accessible%2C+fast+UIs+%E2%99%BF" />
@@ -257,7 +257,7 @@ const broderick = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111726?style=for-the-badge&logo=googlechrome&logoColor=f0b14a)](https://bentil4.github.io/bentil-porfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111726?style=for-the-badge&logo=googlechrome&logoColor=f0b14a)](https://bentil-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111726?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2YwYjE0YSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/broderickbentil)
 [![Email](https://img.shields.io/badge/Email-111726?style=for-the-badge&logo=gmail&logoColor=f0b14a)](mailto:broderick.bentil@gmail.com)
 <!-- Add when ready:
