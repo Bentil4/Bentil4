@@ -1,15 +1,24 @@
 <!--
   Profile README, version 2.
-  Colours match the portfolio: background 111726 · amber f0b14a · blue 7fa8d8 · text e8ecf4
+  Every card has a dark and a light variant (<picture>), so it matches the visitor's GitHub theme.
+  Dark: background 111726 · amber f0b14a · blue 7fa8d8 · text e8ecf4
+  Light: background ffffff · amber 9a6412 · blue 3b6ea8 · text 1f2937
   Stats + project cards: self-hosted github-readme-stats → https://github-readme-stats-pi-five-48.vercel.app
-  Snake: generated daily by .github/workflows/snake.yml onto the `output` branch
+  Snake, Pac-Man, 3D graph: .github/workflows/profile-assets.yml → `output` branch (daily)
+  Recent activity + latest repos: .github/workflows/update-readme.yml → scripts/update_readme.py (daily)
 -->
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,55:111726,100:3b2f14&height=200&section=header&text=Broderick%20Nana%20Bentil&fontSize=46&fontColor=f0b14a&fontAlignY=36&desc=Turning%20messy%20problems%20into%20fast%2C%20reliable%20products&descSize=17&descAlignY=58&descColor=e8ecf4&animation=fadeIn" />
 
 <div align="center">
 
-<a href="https://bentil4.github.io/bentil-porfolio/"><img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F0B14A&center=true&vCenter=true&width=640&height=48&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;TypeScript+everywhere%2C+front+to+back;Angular+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot;Building+explainable+trading+systems+%F0%9F%A4%96;Shipping+accessible%2C+fast+UIs+%E2%99%BF" /></a>
+<a href="https://bentil4.github.io/bentil-porfolio/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F0B14A&center=true&vCenter=true&width=640&height=48&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;TypeScript+everywhere%2C+front+to+back;Angular+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot;Building+explainable+trading+systems+%F0%9F%A4%96;Shipping+accessible%2C+fast+UIs+%E2%99%BF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9A6412&center=true&vCenter=true&width=640&height=48&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;TypeScript+everywhere%2C+front+to+back;Angular+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot;Building+explainable+trading+systems+%F0%9F%A4%96;Shipping+accessible%2C+fast+UIs+%E2%99%BF" />
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F0B14A&center=true&vCenter=true&width=640&height=48&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;TypeScript+everywhere%2C+front+to+back;Angular+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot;Building+explainable+trading+systems+%F0%9F%A4%96;Shipping+accessible%2C+fast+UIs+%E2%99%BF" />
+</picture>
+</a>
 
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Bentil4&label=Profile%20views&color=f0b14a&style=flat-square" />
 <img alt="Open to remote roles" src="https://img.shields.io/badge/Open%20to-remote%20roles-f0b14a?style=flat-square&labelColor=111726" />
@@ -43,15 +52,47 @@ const broderick = {
 - 📚 **Learning** AI and Machine Learning,cloud infrastructure and observability: AWS, Terraform, Prometheus and Grafana
 - ⚡ **Ask me about** Angular Signals, typed APIs and web accessibility (WCAG)
 
+## ⚡ Recent Activity
+
+<!--ACTIVITY:START-->
+1. ⬆️ Pushed 1 commit to [Givio](https://github.com/Bentil4/Givio) · <sub>yesterday</sub>
+2. 🚀 Opened PR [#81](https://github.com/Bentil4/Givio/pull/81) in [Givio](https://github.com/Bentil4/Givio) · <sub>yesterday</sub>
+3. 🚀 Opened PR [#80](https://github.com/Bentil4/Givio/pull/80) in [Givio](https://github.com/Bentil4/Givio) · <sub>yesterday</sub>
+4. 🚀 Opened PR [#79](https://github.com/Bentil4/Givio/pull/79) in [Givio](https://github.com/Bentil4/Givio) · <sub>3 days ago</sub>
+5. 🚀 Opened PR [#78](https://github.com/Bentil4/Givio/pull/78) in [Givio](https://github.com/Bentil4/Givio) · <sub>3 days ago</sub>
+<!--ACTIVITY:END-->
+
+<sub>🔄 Updated daily by a GitHub Action</sub>
+
 ## 🌟 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Bentil4/Givio"><img width="400" alt="Givio" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Givio&show_owner=false&description_lines_count=2&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true&border_radius=10" /></a>
-<a href="https://github.com/Bentil4/media-library-production"><img width="400" alt="media-library-production" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=media-library-production&show_owner=false&description_lines_count=2&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true&border_radius=10" /></a>
-<a href="https://github.com/Bentil4/penIt"><img width="400" alt="penIt" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=penIt&show_owner=false&description_lines_count=2&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true&border_radius=10" /></a>
-<a href="https://github.com/Bentil4/Insta-bite"><img width="400" alt="Insta-bite" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Insta-bite&show_owner=false&description_lines_count=2&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true&border_radius=10" /></a>
-<a href="https://github.com/Bentil4/Dessert-app"><img width="400" alt="Dessert-app" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Dessert-app&show_owner=false&description_lines_count=2&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true&border_radius=10" /></a>
+<a href="https://github.com/Bentil4/Givio"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Givio&show_owner=false&description_lines_count=2&border_radius=10&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Givio&show_owner=false&description_lines_count=2&border_radius=10&bg_color=ffffff&title_color=9a6412&icon_color=3b6ea8&text_color=1f2937&border_color=e5e7eb" />
+  <img alt="Givio" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Givio&show_owner=false&description_lines_count=2&border_radius=10&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" width="400" />
+</picture></a>
+<a href="https://github.com/Bentil4/media-library-production"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=media-library-production&show_owner=false&description_lines_count=2&border_radius=10&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=media-library-production&show_owner=false&description_lines_count=2&border_radius=10&bg_color=ffffff&title_color=9a6412&icon_color=3b6ea8&text_color=1f2937&border_color=e5e7eb" />
+  <img alt="media-library-production" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=media-library-production&show_owner=false&description_lines_count=2&border_radius=10&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" width="400" />
+</picture></a>
+<a href="https://github.com/Bentil4/penIt"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=penIt&show_owner=false&description_lines_count=2&border_radius=10&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=penIt&show_owner=false&description_lines_count=2&border_radius=10&bg_color=ffffff&title_color=9a6412&icon_color=3b6ea8&text_color=1f2937&border_color=e5e7eb" />
+  <img alt="penIt" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=penIt&show_owner=false&description_lines_count=2&border_radius=10&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" width="400" />
+</picture></a>
+<a href="https://github.com/Bentil4/Insta-bite"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Insta-bite&show_owner=false&description_lines_count=2&border_radius=10&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Insta-bite&show_owner=false&description_lines_count=2&border_radius=10&bg_color=ffffff&title_color=9a6412&icon_color=3b6ea8&text_color=1f2937&border_color=e5e7eb" />
+  <img alt="Insta-bite" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Insta-bite&show_owner=false&description_lines_count=2&border_radius=10&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" width="400" />
+</picture></a>
+<a href="https://github.com/Bentil4/Dessert-app"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Dessert-app&show_owner=false&description_lines_count=2&border_radius=10&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Dessert-app&show_owner=false&description_lines_count=2&border_radius=10&bg_color=ffffff&title_color=9a6412&icon_color=3b6ea8&text_color=1f2937&border_color=e5e7eb" />
+  <img alt="Dessert-app" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Dessert-app&show_owner=false&description_lines_count=2&border_radius=10&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" width="400" />
+</picture></a>
 
 <br/>
 
@@ -59,6 +100,18 @@ const broderick = {
 <a href="https://github.com/QuickPoll-app/QuickPoll"><img alt="QuickPoll on GitHub" src="https://img.shields.io/badge/🗳️%20QuickPoll-Team%20project-7fa8d8?style=for-the-badge&labelColor=111726" /></a>
 
 </div>
+
+## 🆕 Latest Repos
+
+<!--REPOS:START-->
+| Repo | What it is | Language | Updated |
+| --- | --- | --- | --- |
+| [Givio](https://github.com/Bentil4/Givio) | A Donation Management System (DMS) is a web-based application designed to digitise, str… | Python | yesterday |
+| [media-library-production](https://github.com/Bentil4/media-library-production) | Media Library API — production-readiness lab: testing, env config, CI/CD, logging, and… | TypeScript | 53 days ago |
+| [task-tracker](https://github.com/Bentil4/task-tracker) | - | TypeScript | 111 days ago |
+| [task-backend](https://github.com/Bentil4/task-backend) | A RESTful API Backend system for managing tasks, built using express.js The API allow u… | - | 167 days ago |
+| [penIt](https://github.com/Bentil4/penIt) | A Note-taking web app that allows users to create, organize, and manage their notes wit… | JavaScript | 189 days ago |
+<!--REPOS:END-->
 
 ## 🛠️ Tech Stack & Tools
 
@@ -90,10 +143,34 @@ const broderick = {
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats-pi-five-48.vercel.app/api?username=Bentil4&show_icons=true&include_all_commits=true&count_private=true&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" />
-<img height="165" alt="Top languages" src="https://github-readme-stats-pi-five-48.vercel.app/api/top-langs/?username=Bentil4&layout=compact&langs_count=8&bg_color=111726&title_color=f0b14a&text_color=e8ecf4&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api?username=Bentil4&show_icons=true&include_all_commits=true&count_private=true&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api?username=Bentil4&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=9a6412&icon_color=3b6ea8&text_color=1f2937&border_color=e5e7eb" />
+  <img alt="GitHub stats" src="https://github-readme-stats-pi-five-48.vercel.app/api?username=Bentil4&show_icons=true&include_all_commits=true&count_private=true&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/top-langs/?username=Bentil4&layout=compact&langs_count=8&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pi-five-48.vercel.app/api/top-langs/?username=Bentil4&layout=compact&langs_count=8&bg_color=ffffff&title_color=9a6412&icon_color=3b6ea8&text_color=1f2937&border_color=e5e7eb" />
+  <img alt="Top languages" src="https://github-readme-stats-pi-five-48.vercel.app/api/top-langs/?username=Bentil4&layout=compact&langs_count=8&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" height="165" />
+</picture>
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Bentil4&background=111726&ring=f0b14a&fire=f0b14a&currStreakNum=e8ecf4&currStreakLabel=f0b14a&sideNums=e8ecf4&sideLabels=7fa8d8&dates=7fa8d8&stroke=1f2940&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Bentil4&background=111726&ring=f0b14a&fire=f0b14a&currStreakNum=e8ecf4&currStreakLabel=f0b14a&sideNums=e8ecf4&sideLabels=7fa8d8&dates=7fa8d8&stroke=1f2940&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Bentil4&background=ffffff&ring=c98a1c&fire=c98a1c&currStreakNum=1f2937&currStreakLabel=9a6412&sideNums=1f2937&sideLabels=3b6ea8&dates=6b7280&stroke=e5e7eb&hide_border=true" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Bentil4&background=111726&ring=f0b14a&fire=f0b14a&currStreakNum=e8ecf4&currStreakLabel=f0b14a&sideNums=e8ecf4&sideLabels=7fa8d8&dates=7fa8d8&stroke=1f2940&hide_border=true" />
+</picture>
+
+</div>
+
+## 🧊 Contributions in 3D
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bentil4/Bentil4/output/profile-3d-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bentil4/Bentil4/output/profile-3d-light.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Bentil4/Bentil4/output/profile-3d-dark.svg" />
+</picture>
 
 </div>
 
@@ -101,15 +178,45 @@ const broderick = {
 
 <div align="center">
 
-<img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=Bentil4&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Bentil4&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=Bentil4&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=8" />
+  <img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=Bentil4&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=8" />
+</picture>
 
 </div>
 
-## 🐍 Contribution Snake
+## 🎮 Contribution Games
 
 <div align="center">
 
-<img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Bentil4/Bentil4/output/snake.svg" />
+**🐍 Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bentil4/Bentil4/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bentil4/Bentil4/output/snake-light.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Bentil4/Bentil4/output/snake.svg" />
+</picture>
+
+**👾 Pac-Man**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bentil4/Bentil4/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bentil4/Bentil4/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Bentil4/Bentil4/output/pacman-contribution-graph-dark.svg" />
+</picture>
+
+</div>
+
+## 💬 Dev Quote
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img alt="Random dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</picture>
 
 </div>
 
@@ -126,6 +233,25 @@ const broderick = {
 - ☕ Best ideas show up mid-refactor
 
 </details>
+
+<!--
+  Ready-made sections, hidden until the accounts exist. Replace YOUR_* and move each block above the comment.
+
+  ⏱️ WakaTime (free account + editor plugin, make your profile public on wakatime.com):
+  <img alt="WakaTime stats" src="https://github-readme-stats-pi-five-48.vercel.app/api/wakatime?username=YOUR_WAKATIME_USER&layout=compact&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" />
+
+  🎧 Spotify now playing (log in once at the link to get your uid):
+  <img alt="Spotify now playing" src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&background_color=111726&bar_color=f0b14a" />
+
+  📝 Latest blog posts (add gautamkrishnar/blog-post-workflow with your feed URL, it fills these markers):
+  <!- BLOG-POST-LIST:START -> <!- BLOG-POST-LIST:END -> (use two dashes in each marker)
+
+  🧩 LeetCode:
+  <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USER?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+
+  🎓 Certifications (Credly or similar):
+  <a href="YOUR_CREDLY_BADGE_URL"><img alt="Certification" height="90" src="YOUR_BADGE_IMAGE_URL" /></a>
+-->
 
 ## 🤝 Connect
 
