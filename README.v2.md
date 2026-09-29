@@ -1,17 +1,19 @@
 <!--
   Profile README, version 2.
   Colours match the portfolio: background 111726 · amber f0b14a · blue 7fa8d8 · text e8ecf4
-  Stats cards: self-hosted github-readme-stats  → https://github-readme-stats-pi-five-48.vercel.app
-  Streak card: github-readme-streak-stats (public) → https://streak-stats.demolab.com
+  Stats + project cards: self-hosted github-readme-stats → https://github-readme-stats-pi-five-48.vercel.app
+  Snake: generated daily by .github/workflows/snake.yml onto the `output` branch
 -->
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,55:111726,100:3b2f14&height=200&section=header&text=Broderick%20Nana%20Bentil&fontSize=46&fontColor=f0b14a&fontAlignY=36&desc=Turning%20messy%20problems%20into%20fast%2C%20reliable%20products&descSize=17&descAlignY=58&descColor=e8ecf4&animation=fadeIn" />
 
 <div align="center">
 
-# Hey, I'm **Broderick Nana Bentil** 👋
+<a href="https://bentil4.github.io/bentil-porfolio/"><img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F0B14A&center=true&vCenter=true&width=640&height=48&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;TypeScript+everywhere%2C+front+to+back;Angular+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot;Building+explainable+trading+systems+%F0%9F%A4%96;Shipping+accessible%2C+fast+UIs+%E2%99%BF" /></a>
 
-### Full-Stack Engineer turning messy problems into fast, reliable products
-
-*From database schema to deployed UI, I own the whole path.*
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Bentil4&label=Profile%20views&color=f0b14a&style=flat-square" />
+<img alt="Open to remote roles" src="https://img.shields.io/badge/Open%20to-remote%20roles-f0b14a?style=flat-square&labelColor=111726" />
+<img alt="Based in Accra, Ghana" src="https://img.shields.io/badge/Based%20in-Accra%2C%20Ghana-7fa8d8?style=flat-square&labelColor=111726" />
 
 </div>
 
@@ -21,7 +23,17 @@
 
 I build web apps end-to-end, with TypeScript across the stack and a bias for measurable performance. I care about accessible interfaces, clean APIs and CI pipelines that make shipping boring. What drives me is software you can trust and explain, down to every decision it makes.
 
-📍 Accra, Ghana · 🌍 Open to remote roles
+```ts
+const broderick = {
+  role: "Full-Stack Software Engineer",
+  location: "Accra, Ghana 🇬🇭",
+  experience: "3+ years building for the web",
+  daily: ["TypeScript", "Angular", "React", "Node.js", "Spring Boot"],
+  currentlyBuilding: ["FX-bot", "Givio"],
+  believesIn: "Boring deploys and interfaces everyone can use",
+  openTo: "Remote roles & interesting collaborations",
+};
+```
 
 ## 🚀 Current Focus
 
@@ -30,6 +42,23 @@ I build web apps end-to-end, with TypeScript across the stack and a bias for mea
 - 🗳️ **Collaborating** on [QuickPoll](https://github.com/QuickPoll-app/QuickPoll), a real-time polling platform for distributed teams
 - 📚 **Learning** cloud infrastructure and observability: AWS, Terraform, Prometheus and Grafana
 - ⚡ **Ask me about** Angular Signals, typed APIs and web accessibility (WCAG)
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Bentil4/Givio"><img width="400" alt="Givio" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Givio&show_owner=false&description_lines_count=2&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true&border_radius=10" /></a>
+<a href="https://github.com/Bentil4/media-library-production"><img width="400" alt="media-library-production" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=media-library-production&show_owner=false&description_lines_count=2&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true&border_radius=10" /></a>
+<a href="https://github.com/Bentil4/penIt"><img width="400" alt="penIt" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=penIt&show_owner=false&description_lines_count=2&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true&border_radius=10" /></a>
+<a href="https://github.com/Bentil4/Insta-bite"><img width="400" alt="Insta-bite" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Insta-bite&show_owner=false&description_lines_count=2&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true&border_radius=10" /></a>
+<a href="https://github.com/Bentil4/Dessert-app"><img width="400" alt="Dessert-app" src="https://github-readme-stats-pi-five-48.vercel.app/api/pin/?username=Bentil4&repo=Dessert-app&show_owner=false&description_lines_count=2&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true&border_radius=10" /></a>
+
+<br/>
+
+<a href="https://fx-bot-six.vercel.app"><img alt="FX-bot live demo" src="https://img.shields.io/badge/🤖%20FX--bot-Live%20demo-f0b14a?style=for-the-badge&labelColor=111726" /></a>
+<a href="https://github.com/QuickPoll-app/QuickPoll"><img alt="QuickPoll on GitHub" src="https://img.shields.io/badge/🗳️%20QuickPoll-Team%20project-7fa8d8?style=for-the-badge&labelColor=111726" /></a>
+
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -61,12 +90,42 @@ I build web apps end-to-end, with TypeScript across the stack and a bias for mea
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats-pi-five-48.vercel.app/api?username=Bentil4&show_icons=true&include_all_commits=true&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" />
+<img height="165" alt="GitHub stats" src="https://github-readme-stats-pi-five-48.vercel.app/api?username=Bentil4&show_icons=true&include_all_commits=true&count_private=true&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" />
 <img height="165" alt="Top languages" src="https://github-readme-stats-pi-five-48.vercel.app/api/top-langs/?username=Bentil4&layout=compact&langs_count=8&bg_color=111726&title_color=f0b14a&text_color=e8ecf4&hide_border=true" />
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Bentil4&background=111726&ring=f0b14a&fire=f0b14a&currStreakNum=e8ecf4&currStreakLabel=f0b14a&sideNums=e8ecf4&sideLabels=7fa8d8&dates=7fa8d8&stroke=1f2940&hide_border=true" />
 
 </div>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=Bentil4&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=8" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Bentil4/Bentil4/output/snake.svg" />
+
+</div>
+
+## 🎲 Fun Facts
+
+<details>
+<summary><b>Click to peek behind the commits 👀</b></summary>
+<br/>
+
+- 🧪 I think a feature isn't done until it has tests and a green CI run
+- ♿ I test my UIs with a keyboard and a screen reader, not just a mouse
+- 🎨 My portfolio ships its own GitHub-style contribution graph, built at deploy time
+- 📈 FX-bot even logs *why* it chose to do nothing
+- ☕ Best ideas show up mid-refactor
+
+</details>
 
 ## 🤝 Connect
 
@@ -83,3 +142,5 @@ I build web apps end-to-end, with TypeScript across the stack and a bias for mea
 <sub>Thanks for stopping by. Let's build something great ✨</sub>
 
 </div>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2f14,45:111726,100:0b0f1a&height=120&section=footer" />
