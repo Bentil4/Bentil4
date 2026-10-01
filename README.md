@@ -55,11 +55,11 @@ const broderick = {
 ## ⚡ Recent Activity
 
 <!--ACTIVITY:START-->
-1. ⬆️ Pushed 1 commit to [Givio](https://github.com/Bentil4/Givio) · <sub>today</sub>
-2. 🚀 Opened PR [#97](https://github.com/Bentil4/Givio/pull/97) in [Givio](https://github.com/Bentil4/Givio) · <sub>today</sub>
-3. 🚀 Opened PR [#96](https://github.com/Bentil4/Givio/pull/96) in [Givio](https://github.com/Bentil4/Givio) · <sub>today</sub>
-4. 🚀 Opened PR [#95](https://github.com/Bentil4/Givio/pull/95) in [Givio](https://github.com/Bentil4/Givio) · <sub>today</sub>
-5. 🚀 Opened PR [#94](https://github.com/Bentil4/Givio/pull/94) in [Givio](https://github.com/Bentil4/Givio) · <sub>today</sub>
+1. ⬆️ Pushed 1 commit to [Givio](https://github.com/Bentil4/Givio) · <sub>yesterday</sub>
+2. 🚀 Opened PR [#112](https://github.com/Bentil4/Givio/pull/112) in [Givio](https://github.com/Bentil4/Givio) · <sub>today</sub>
+3. 🚀 Opened PR [#111](https://github.com/Bentil4/Givio/pull/111) in [Givio](https://github.com/Bentil4/Givio) · <sub>today</sub>
+4. 🚀 Opened PR [#110](https://github.com/Bentil4/Givio/pull/110) in [Givio](https://github.com/Bentil4/Givio) · <sub>today</sub>
+5. 🚀 Opened PR [#109](https://github.com/Bentil4/Givio/pull/109) in [Givio](https://github.com/Bentil4/Givio) · <sub>today</sub>
 <!--ACTIVITY:END-->
 
 <sub>🔄 Updated daily by a GitHub Action</sub>
@@ -107,10 +107,10 @@ const broderick = {
 | Repo | What it is | Language | Updated |
 | --- | --- | --- | --- |
 | [Givio](https://github.com/Bentil4/Givio) | A Donation Management System (DMS) is a web-based application designed to digitise, str… | Python | today |
-| [media-library-production](https://github.com/Bentil4/media-library-production) | Media Library API — production-readiness lab: testing, env config, CI/CD, logging, and… | TypeScript | 54 days ago |
-| [task-tracker](https://github.com/Bentil4/task-tracker) | - | TypeScript | 112 days ago |
-| [task-backend](https://github.com/Bentil4/task-backend) | A RESTful API Backend system for managing tasks, built using express.js The API allow u… | - | 168 days ago |
-| [penIt](https://github.com/Bentil4/penIt) | A Note-taking web app that allows users to create, organize, and manage their notes wit… | JavaScript | 189 days ago |
+| [media-library-production](https://github.com/Bentil4/media-library-production) | Media Library API — production-readiness lab: testing, env config, CI/CD, logging, and… | TypeScript | 55 days ago |
+| [task-tracker](https://github.com/Bentil4/task-tracker) | - | TypeScript | 113 days ago |
+| [task-backend](https://github.com/Bentil4/task-backend) | A RESTful API Backend system for managing tasks, built using express.js The API allow u… | - | 169 days ago |
+| [penIt](https://github.com/Bentil4/penIt) | A Note-taking web app that allows users to create, organize, and manage their notes wit… | JavaScript | 190 days ago |
 <!--REPOS:END-->
 
 ## 🛠️ Tech Stack & Tools
