@@ -55,11 +55,11 @@ const broderick = {
 ## ⚡ Recent Activity
 
 <!--ACTIVITY:START-->
-1. 🚀 Opened PR [#6](https://github.com/Bentil4/garden-service/pull/6) in [garden-service](https://github.com/Bentil4/garden-service) · <sub>24 days ago</sub>
-2. 🚀 Opened PR [#5](https://github.com/Bentil4/garden-service/pull/5) in [garden-service](https://github.com/Bentil4/garden-service) · <sub>24 days ago</sub>
-3. 🚀 Opened PR [#4](https://github.com/Bentil4/garden-service/pull/4) in [garden-service](https://github.com/Bentil4/garden-service) · <sub>24 days ago</sub>
-4. 🚀 Opened PR [#2](https://github.com/Bentil4/garden-service/pull/2) in [garden-service](https://github.com/Bentil4/garden-service) · <sub>24 days ago</sub>
-5. 🚀 Opened PR [#1](https://github.com/Bentil4/garden-service/pull/1) in [garden-service](https://github.com/Bentil4/garden-service) · <sub>24 days ago</sub>
+1. 🚀 Opened PR [#6](https://github.com/Bentil4/garden-service/pull/6) in [garden-service](https://github.com/Bentil4/garden-service) · <sub>25 days ago</sub>
+2. 🚀 Opened PR [#5](https://github.com/Bentil4/garden-service/pull/5) in [garden-service](https://github.com/Bentil4/garden-service) · <sub>25 days ago</sub>
+3. 🚀 Opened PR [#4](https://github.com/Bentil4/garden-service/pull/4) in [garden-service](https://github.com/Bentil4/garden-service) · <sub>25 days ago</sub>
+4. 🚀 Opened PR [#2](https://github.com/Bentil4/garden-service/pull/2) in [garden-service](https://github.com/Bentil4/garden-service) · <sub>25 days ago</sub>
+5. 🚀 Opened PR [#1](https://github.com/Bentil4/garden-service/pull/1) in [garden-service](https://github.com/Bentil4/garden-service) · <sub>25 days ago</sub>
 <!--ACTIVITY:END-->
 
 <sub>🔄 Updated daily by a GitHub Action</sub>
@@ -106,11 +106,11 @@ const broderick = {
 <!--REPOS:START-->
 | Repo | What it is | Language | Updated |
 | --- | --- | --- | --- |
-| [garden-service](https://github.com/Bentil4/garden-service) | EcoSculpt landscaping and gardening landing page (Angular 22, Spartan UI, Tailwind) | TypeScript | 24 days ago |
-| [media-library-production](https://github.com/Bentil4/media-library-production) | Media Library API — production-readiness lab: testing, env config, CI/CD, logging, and… | TypeScript | 87 days ago |
-| [task-tracker](https://github.com/Bentil4/task-tracker) | - | TypeScript | 145 days ago |
-| [task-backend](https://github.com/Bentil4/task-backend) | A RESTful API Backend system for managing tasks, built using express.js The API allow u… | - | 201 days ago |
-| [penIt](https://github.com/Bentil4/penIt) | A Note-taking web app that allows users to create, organize, and manage their notes wit… | JavaScript | 222 days ago |
+| [garden-service](https://github.com/Bentil4/garden-service) | EcoSculpt landscaping and gardening landing page (Angular 22, Spartan UI, Tailwind) | TypeScript | 25 days ago |
+| [media-library-production](https://github.com/Bentil4/media-library-production) | Media Library API — production-readiness lab: testing, env config, CI/CD, logging, and… | TypeScript | 88 days ago |
+| [task-tracker](https://github.com/Bentil4/task-tracker) | - | TypeScript | 146 days ago |
+| [task-backend](https://github.com/Bentil4/task-backend) | A RESTful API Backend system for managing tasks, built using express.js The API allow u… | - | 202 days ago |
+| [penIt](https://github.com/Bentil4/penIt) | A Note-taking web app that allows users to create, organize, and manage their notes wit… | JavaScript | 223 days ago |
 <!--REPOS:END-->
 
 ## 🛠️ Tech Stack & Tools
