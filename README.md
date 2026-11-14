@@ -102,11 +102,11 @@ _No public activity in the last 90 days._
 <!--REPOS:START-->
 | Repo | What it is | Language | Updated |
 | --- | --- | --- | --- |
-| [garden-service](https://github.com/Bentil4/garden-service) | EcoSculpt landscaping and gardening landing page (Angular 22, Spartan UI, Tailwind) | TypeScript | 35 days ago |
-| [media-library-production](https://github.com/Bentil4/media-library-production) | Media Library API — production-readiness lab: testing, env config, CI/CD, logging, and… | TypeScript | 98 days ago |
-| [task-tracker](https://github.com/Bentil4/task-tracker) | - | TypeScript | 156 days ago |
-| [task-backend](https://github.com/Bentil4/task-backend) | A RESTful API Backend system for managing tasks, built using express.js The API allow u… | - | 212 days ago |
-| [penIt](https://github.com/Bentil4/penIt) | A Note-taking web app that allows users to create, organize, and manage their notes wit… | JavaScript | 233 days ago |
+| [garden-service](https://github.com/Bentil4/garden-service) | EcoSculpt landscaping and gardening landing page (Angular 22, Spartan UI, Tailwind) | TypeScript | 36 days ago |
+| [media-library-production](https://github.com/Bentil4/media-library-production) | Media Library API — production-readiness lab: testing, env config, CI/CD, logging, and… | TypeScript | 99 days ago |
+| [task-tracker](https://github.com/Bentil4/task-tracker) | - | TypeScript | 157 days ago |
+| [task-backend](https://github.com/Bentil4/task-backend) | A RESTful API Backend system for managing tasks, built using express.js The API allow u… | - | 213 days ago |
+| [penIt](https://github.com/Bentil4/penIt) | A Note-taking web app that allows users to create, organize, and manage their notes wit… | JavaScript | 234 days ago |
 <!--REPOS:END-->
 
 ## 🛠️ Tech Stack & Tools
